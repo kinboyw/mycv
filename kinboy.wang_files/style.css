@@ -264,7 +264,7 @@ section.project .proj-detail{
 }
 .article > header {
   display:flex;
-  justify-content: space-around;
+  justify-content: flex-start;
   align-items: center;
 }
 .article > header > .avatar{
